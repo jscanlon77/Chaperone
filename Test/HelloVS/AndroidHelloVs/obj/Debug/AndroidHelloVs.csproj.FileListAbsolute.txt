@@ -1,0 +1,17 @@
+C:\Chaperone\Test\HelloVS\AndroidHelloVs\bin\Debug\AndroidHelloVs.dll
+C:\Chaperone\Test\HelloVS\AndroidHelloVs\bin\Debug\AndroidHelloVs.pdb
+C:\Chaperone\Test\HelloVS\AndroidHelloVs\bin\Debug\AndroidHelloVs.AndroidHelloVs.apk
+C:\Chaperone\Test\HelloVS\AndroidHelloVs\bin\Debug\AndroidHelloVs.AndroidHelloVs-Signed.apk
+C:\Chaperone\Test\HelloVS\AndroidHelloVs\obj\Debug\AndroidHelloVs.csprojResolveAssemblyReference.cache
+C:\Chaperone\Test\HelloVS\AndroidHelloVs\obj\Debug\res\drawable\monoandroidsplash.png
+C:\Chaperone\Test\HelloVS\AndroidHelloVs\obj\Debug\res\values\styles.xml
+C:\Chaperone\Test\HelloVS\AndroidHelloVs\obj\Debug\AndroidHelloVs.dll
+C:\Chaperone\Test\HelloVS\AndroidHelloVs\obj\Debug\AndroidHelloVs.pdb
+C:\Chaperone\Test\HelloVS\AndroidHelloVs\obj\Debug\android\bin\AndroidHelloVs.AndroidHelloVs.apk
+C:\Chaperone\Test\HelloVS\AndroidHelloVs\obj\Debug\res\layout\main.xml
+C:\Chaperone\Test\HelloVS\AndroidHelloVs\obj\Debug\res\values\strings.xml
+C:\Chaperone\Test\HelloVS\AndroidHelloVs\obj\Debug\res\drawable\icon.png
+C:\Chaperone\Test\HelloVS\AndroidHelloVs\obj\Debug\R.cs.flag
+C:\Chaperone\Test\HelloVS\AndroidHelloVs\obj\Debug\uploadflags.txt
+C:\Chaperone\Test\HelloVS\AndroidHelloVs\obj\Debug\AndroidHelloVs.dll.mdb
+C:\Chaperone\Test\HelloVS\AndroidHelloVs\bin\Debug\AndroidHelloVs.dll.mdb

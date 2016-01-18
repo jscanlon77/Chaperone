@@ -1,0 +1,9 @@
+C:\Chaperone\Test\HelloVS\AndroidHelloVs\obj\Debug\assemblies\AndroidHelloVs.dll
+C:\Chaperone\Test\HelloVS\AndroidHelloVs\obj\Debug\assemblies\Mono.Android.dll
+C:\Chaperone\Test\HelloVS\AndroidHelloVs\obj\Debug\assemblies\mscorlib.dll
+C:\Chaperone\Test\HelloVS\AndroidHelloVs\obj\Debug\assemblies\System.Core.dll
+C:\Chaperone\Test\HelloVS\AndroidHelloVs\obj\Debug\assemblies\System.dll
+C:\Chaperone\Test\HelloVS\AndroidHelloVs\obj\Debug\assemblies\System.Xml.dll
+C:\Chaperone\Test\HelloVS\AndroidHelloVs\obj\Debug\assemblies\System.Xml.Linq.dll
+C:\Chaperone\Test\HelloVS\AndroidHelloVs\obj\Debug\assemblies\System.Runtime.Serialization.dll
+C:\Chaperone\Test\HelloVS\AndroidHelloVs\obj\Debug\assemblies\System.ServiceModel.Internals.dll

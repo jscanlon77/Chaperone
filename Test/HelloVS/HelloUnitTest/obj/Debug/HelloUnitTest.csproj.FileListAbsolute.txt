@@ -1,0 +1,9 @@
+C:\Chaperone\Test\HelloVS\HelloUnitTest\bin\Debug\HelloUnitTest.dll
+C:\Chaperone\Test\HelloVS\HelloUnitTest\bin\Debug\HelloUnitTest.pdb
+C:\Chaperone\Test\HelloVS\HelloUnitTest\bin\Debug\HelloVS.dll
+C:\Chaperone\Test\HelloVS\HelloUnitTest\bin\Debug\nunit.framework.dll
+C:\Chaperone\Test\HelloVS\HelloUnitTest\bin\Debug\HelloVS.pdb
+C:\Chaperone\Test\HelloVS\HelloUnitTest\bin\Debug\nunit.framework.xml
+C:\Chaperone\Test\HelloVS\HelloUnitTest\obj\Debug\HelloUnitTest.csprojResolveAssemblyReference.cache
+C:\Chaperone\Test\HelloVS\HelloUnitTest\obj\Debug\HelloUnitTest.dll
+C:\Chaperone\Test\HelloVS\HelloUnitTest\obj\Debug\HelloUnitTest.pdb

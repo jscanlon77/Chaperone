@@ -1,0 +1,5 @@
+C:\Chaperone\Test\HelloVS\HelloVS\bin\Debug\HelloVS.dll
+C:\Chaperone\Test\HelloVS\HelloVS\bin\Debug\HelloVS.pdb
+C:\Chaperone\Test\HelloVS\HelloVS\obj\Debug\HelloVS.csprojResolveAssemblyReference.cache
+C:\Chaperone\Test\HelloVS\HelloVS\obj\Debug\HelloVS.dll
+C:\Chaperone\Test\HelloVS\HelloVS\obj\Debug\HelloVS.pdb

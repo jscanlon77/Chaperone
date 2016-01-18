@@ -1,0 +1,1 @@
+C:\Chaperone\Test\HelloVS\WindowsHelloVs\WindowsHelloVs.csproj;neutral
